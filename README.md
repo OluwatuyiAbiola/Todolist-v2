@@ -2,7 +2,6 @@
 ## ToDoLIST v2
 
 This project is web app continuation of the previous TodoList 
-<a target="_blank" href="https://todolist-52s7.onrender.com"><h3>Click me for the Website</h3></a>
 
 ### TOOLS
 
